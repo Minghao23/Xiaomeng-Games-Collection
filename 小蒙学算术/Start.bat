@@ -1,0 +1,2 @@
+javac XiaomengCount.java
+java XiaomengCount
